@@ -8,7 +8,8 @@ I'm expected to study at ETH Zürich as a master student in Fall 2023.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-abcde&repo=taichi&show_owner==True&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taichi-dev&repo=taichi&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi)
+
 <!--
 **Lee-abcde/Lee-abcde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
