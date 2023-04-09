@@ -1,4 +1,4 @@
-Hi, I'm Lee, currently a senior undergraduate student at Harbin Institute of Technology（Shenzhen）. 
+Hi, I'm Lee, currently a senior undergraduate student at Harbin Institute of Technology. 
 
 I'm expected to study at ETH Zürich as a master student in Fall 2023.
 
