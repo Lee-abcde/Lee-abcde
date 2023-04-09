@@ -4,7 +4,7 @@ I'm expected to study at ETH Zürich as a master student in Fall 2023.
 
 * [Tech Blog](https://lee-abcde.github.io/)
 
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-abcde&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-abcde&show_owner==True&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
