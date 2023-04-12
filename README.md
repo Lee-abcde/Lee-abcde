@@ -8,9 +8,9 @@ I'm expected to study at ETH Zürich as a master student in Fall 2023.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taichi-dev&repo=taichi&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-abcde&repo=MPM-World&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taichi-dev&repo=taichi&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-abcde&repo=MPM-World&show_owner==True&theme=great-gatsby)](https://github.com/Lee-abcde/MPM-World)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Global-CS-application&repo=global-cs-application.github.io&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=opencsapp&repo=opencsapp.github.io&show_owner==True&theme=great-gatsby)](https://github.com/taichi-dev/taichi)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Global-CS-application&repo=global-cs-application.github.io&show_owner==True&theme=great-gatsby)](https://github.com/Global-CS-application/global-cs-application.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=opencsapp&repo=opencsapp.github.io&show_owner==True&theme=great-gatsby)](https://github.com/opencsapp/opencsapp.github.io)
 
 <!--
 **Lee-abcde/Lee-abcde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
