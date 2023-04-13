@@ -1,6 +1,6 @@
-Hi, I'm Lee, currently a senior undergraduate student at Harbin Institute of Technology. 
+Hi, I'm Lee and I'm expected to start my master's program at ETH Zurich in autumn 2023.
 
-I'm expected to study at ETH Zürich as a master student in Fall 2023.
+My research interests lie in physical simulation and physics-based character animation. 
 
 * [Tech Blog](https://lee-abcde.github.io/)
 
