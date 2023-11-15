@@ -1,6 +1,6 @@
-Hi, I'm Lee and I'm expected to start my master's study at ETH Zurich in autumn 2023.
+Hi, I'm Lee and I'm now studying in Zurich, Switzerland starting autumn 2023.
 
-My research interests lie in physical simulation and physics-based character animation. 
+My research interests lie in character animation and physical simulation. 
 
 * [Tech Blog](https://lee-abcde.github.io/)
 
